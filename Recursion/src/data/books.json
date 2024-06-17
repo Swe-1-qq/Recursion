@@ -1,0 +1,60 @@
+{
+  "books": [
+    {
+      "title": "Pride and Prejudice",
+      "author": {
+        "name": "Jane Austen",
+        "birth_year": 1775,
+        "death_year": 1817,
+        "nationality": "British"
+      },
+      "genre": "Romance",
+      "published_year": 1813,
+      "pages": 279,
+      "rating": 4.4,
+      "reviews": 5228
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": {
+        "name": "J.D. Salinger",
+        "birth_year": 1919,
+        "death_year": 2010,
+        "nationality": "American"
+      },
+      "genre": "Fiction",
+      "published_year": 1951,
+      "pages": 214,
+      "rating": 3.8,
+      "reviews": 6334
+    },
+    {
+      "title": "The Hobbit",
+      "author": {
+        "name": "J.R.R. Tolkien",
+        "birth_year": 1892,
+        "death_year": 1973,
+        "nationality": "British"
+      },
+      "genre": "Fantasy",
+      "published_year": 1937,
+      "pages": 310,
+      "rating": 4.7,
+      "reviews": 8234
+    },
+    {
+      "title": "bb rusna",
+      "author": {
+        "name": "Ukraine Narod",
+        "birth_year": 2022,
+        "death_year": 9999,
+        "nationality": "Ukraine"
+      },
+      "genre": "Psychological Fiction",
+      "published_year": 2022,
+      "pages": 999,
+      "rating": 5.0,
+      "reviews": 9012
+    }
+  ]
+}
